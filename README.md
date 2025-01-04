@@ -29,8 +29,7 @@ In order to install the patch, you must use Crystal Tile 2 with a legally obtain
 - There should be no bugs related to the patch, other than the [bugs](https://legobattles.miraheze.org/wiki/Bug) present in the vanilla game.
 
 ## Credits
-- Ryncat for developing all of the versions of the patch.
+- Ryncat for developing all of the versions of the patch and writing the patch notes.
 - [Opiter09](https://github.com/opiter09) for developing the [Entities Editor](https://github.com/opiter09/Entities-Editor), which was used to create this patch.
 - The Chinese team for developing [Crystal Tile 2](https://www.romhacking.net/utilities/818/), which is used to install this patch.
-- 
 - The Lego Battles community for testing this patch and helping in development.
