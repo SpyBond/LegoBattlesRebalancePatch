@@ -21,7 +21,7 @@ If you are interested in playing Lego Battles online or have any further questio
 The intent of this patch is to change the statistics of various characters and vehicles in Lego Battles in order to allow every unit to be viable within a multiplayer setting. In order to accomplish this, one unit from each category has been chosen to serve as controls, that is to say that their statistics will not be changed. Every other unit's statistics will be either increased or decreased to meet the standard set by the control units. Additionally, this patch intends to make every unit feel distinct from one eachother, and avoid certian units having strictly worse statistics than another unit. Overall, this patch should cause the multiplayer expierence of the game to be more varied, unpredictable, and overall more enjoyable.
 
 ## Installation
-<video src="https://github.com/user-attachments/assets/de1405c1-a923-487f-a03c-8d1b0fd6dee5" width="320" height="240" controls><figcaption>Installation tutorial created by RynCat. [Original](https://youtu.be/n_GBYU4wpa4)</figcaption></video>
+<video src="https://github.com/user-attachments/assets/de1405c1-a923-487f-a03c-8d1b0fd6dee5" width="320" height="240" controls><figcaption>Installation tutorial created by Ryncat. [Original](https://youtu.be/n_GBYU4wpa4)</figcaption></video>
 
 In order to install the patch, you must use Crystal Tile 2 with a legally obtained copy of the Lego Battles ROM. Refer to the video for a step-by-step tutorial.
 
