@@ -1,5 +1,6 @@
 ﻿# Rebalance Patch for Lego Battles
 <img src="https://github.com/user-attachments/assets/950451be-7eb1-479e-a6a8-0c9d43ee0f79" width="40%" height="30%"> </img>
+<br>
 Icon created by [Neteni](https://www.youtube.com/@Tititeni_hortitidanldraft)
 
 This patch file for the Nintendo DS videogame Lego Battles allows you to apply balance changes to the game that makes it for fun to play both in multiplayer and in singleplayer. 
