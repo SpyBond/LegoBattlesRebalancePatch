@@ -27,7 +27,7 @@ The intent of this patch is to change the statistics of various characters and v
 In order to install the patch, you must use Crystal Tile 2 with a legally obtained copy of the Lego Battles ROM. Refer to the video for a step-by-step tutorial. Once you have installed the patch into your ROM, the resulting ROM can only be used on an emulator, such as [MelonDS](https://melonds.kuribo64.net/), a modified 3DS or DSi using a NDS forwarder, or a flashcart. This patch cannot be used with the original game cartridge. 
 
 ## Known Bugs
-- There should be no bugs related to the patch, other than the bugs present in the vanilla game. See [here](https://legobattles.miraheze.org/wiki/Bug) for a list of bugs.
+- There should be no bugs related to the patch, in more modern versions (1.9.4+), but older versions may have units with unusual behavior. The bugs present in the vanilla game have not been fixed, and more bugs may occur due to playing the game on an emulator. See [here](https://legobattles.miraheze.org/wiki/Bug) for a list of bugs in the vanilla game.
 
 ## Credits
 - Ryncat for developing all of the versions of the patch and writing the patch notes.
