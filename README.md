@@ -3,7 +3,7 @@
 <br>
 Icon created by [Neteni](https://www.youtube.com/@Tititeni_hortitidanldraft)
 
-This patch file for the Nintendo DS videogame Lego Battles allows you to apply balance changes to the game that makes it for fun to play both in multiplayer and in singleplayer. 
+This patch file for the Nintendo DS videogame Lego Battles, created by [Ryncat](https://www.youtube.com/@ryncat8115) allows you to apply balance changes to the game that makes it for fun to play both in multiplayer and in singleplayer. 
 
 This is only a patch file and does not include the rest of the game. You must use [Crystal Tile 2](https://www.romhacking.net/utilities/818/) or a similar ROM packing tool with a legally obtained ROM of Lego Battles to apply the patch to the game. Further instructions on how to do this will be given below.  
 
@@ -30,7 +30,7 @@ In order to install the patch, you must use Crystal Tile 2 with a legally obtain
 - There should be no bugs related to the patch, in more modern versions (1.9.4+), but older versions may have units with unusual behavior. The bugs present in the vanilla game have not been fixed, and more bugs may occur due to playing the game on an emulator. See [here](https://legobattles.miraheze.org/wiki/Bug) for a list of bugs in the vanilla game.
 
 ## Credits
-- Ryncat for developing all of the versions of the patch and writing the patch notes.
+- [Ryncat](https://www.youtube.com/@ryncat8115) for developing all of the versions of the patch and writing the patch notes that are included in the downloads.
 - [Opiter09](https://github.com/opiter09) for developing the [Entities Editor](https://github.com/opiter09/Entities-Editor), which was used to create this patch.
 - The Chinese team for developing [Crystal Tile 2](https://www.romhacking.net/utilities/818/), which is used to install this patch.
 - The Lego Battles community for testing this patch and helping in development.
