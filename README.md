@@ -5,7 +5,7 @@ Icon created by [Neteni](https://www.youtube.com/@Tititeni_hortitidanldraft)
 
 This patch file for the Nintendo DS videogame Lego Battles, created by [Ryncat](https://www.youtube.com/@ryncat8115), allows you to apply balance changes to the game that makes it more fun to play both in multiplayer and in singleplayer. 
 
-This is only a patch file and does not include the rest of the game. You must use [Crystal Tile 2](https://www.romhacking.net/utilities/818/) or a similar ROM packing tool with a legally obtained ROM of Lego Battles to apply the patch to the game. Further instructions on how to do this will be given below.  
+This is only a patch file and does not include the rest of the game. It also does not change the color palette of maps or provide custom maps. You must use [Crystal Tile 2](https://www.romhacking.net/utilities/818/) or a similar ROM packing tool with a legally obtained ROM of Lego Battles to apply the patch to the game. Further instructions on how to do this will be given below.  
 
 Note that while this patch is fully playable in singleplayer, all players in multiplayer must be using this patch in order for the game to function properly. 
 
